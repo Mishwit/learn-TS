@@ -23,7 +23,7 @@ function App() {
   return (
     <div className="App">
       <main className="App-main">
-        <CardSection />
+        <CardSection users={users} />
       </main>
     </div>
   );
