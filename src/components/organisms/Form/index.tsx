@@ -10,12 +10,7 @@ export const Form = () => (
     <Input type="email" placeholder="E-mail" />
     <Input type="password" placeholder="Password" />
     <Input type="password" placeholder="Repeat password" />
-    {/* <Button
-      type="submit"
-      text="Send"
-      variant="red"
-      onClick={() => alert("Thanks for authorized")}
-    /> */}
+
     <Button
       type="submit"
       text="Send"
